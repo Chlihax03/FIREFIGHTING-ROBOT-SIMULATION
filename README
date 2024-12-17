@@ -1,1 +1,4 @@
+This project is an interactive simulation of firefighting robots designed to extinguish fires on a map composed of various terrain types. The application is developed in Java and features a graphical user interface (GUI) to visualize the map, the fires, and the movement of the robots.
+
+The robots follow an optimized strategy to efficiently navigate the terrain and extinguish the fires.
 
